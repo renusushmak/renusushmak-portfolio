@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/renusushmak-portfolio/static/css/main.30a8f7f1.chunk.css",
+    "main.js": "/renusushmak-portfolio/static/js/main.ad6897a9.chunk.js",
+    "main.js.map": "/renusushmak-portfolio/static/js/main.ad6897a9.chunk.js.map",
+    "runtime-main.js": "/renusushmak-portfolio/static/js/runtime-main.a1f7f350.js",
+    "runtime-main.js.map": "/renusushmak-portfolio/static/js/runtime-main.a1f7f350.js.map",
+    "static/js/2.bd2719dc.chunk.js": "/renusushmak-portfolio/static/js/2.bd2719dc.chunk.js",
+    "static/js/2.bd2719dc.chunk.js.map": "/renusushmak-portfolio/static/js/2.bd2719dc.chunk.js.map",
+    "static/js/3.4cd772c4.chunk.js": "/renusushmak-portfolio/static/js/3.4cd772c4.chunk.js",
+    "static/js/3.4cd772c4.chunk.js.map": "/renusushmak-portfolio/static/js/3.4cd772c4.chunk.js.map",
+    "index.html": "/renusushmak-portfolio/index.html",
+    "static/css/main.30a8f7f1.chunk.css.map": "/renusushmak-portfolio/static/css/main.30a8f7f1.chunk.css.map",
+    "static/js/2.bd2719dc.chunk.js.LICENSE.txt": "/renusushmak-portfolio/static/js/2.bd2719dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/renusushmak-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f7f350.js",
+    "static/js/2.bd2719dc.chunk.js",
+    "static/css/main.30a8f7f1.chunk.css",
+    "static/js/main.ad6897a9.chunk.js"
+  ]
+}
